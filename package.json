@@ -1,0 +1,16 @@
+{
+  "name": "hello-world-from-nantes",
+  "version": "1.0.0",
+  "description": "Simple module to learn npm which returns specific 'Hello World'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Hello world", "tutorial"],
+  "author": "Alvin Berthelot",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvinberthelot/jsm_hello-world-from-nantes.git"
+  }
+}
